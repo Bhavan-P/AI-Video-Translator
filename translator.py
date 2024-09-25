@@ -1,3 +1,6 @@
+#pip install resemble
+#pip install request
+#pip install moviepy speechrecognition pydub googletrans==4.0.0-rc1
 import moviepy.editor as mp
 import speech_recognition as sr
 from googletrans import Translator  # Google Translate
