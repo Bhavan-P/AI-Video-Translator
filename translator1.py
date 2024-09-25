@@ -1,3 +1,4 @@
+#pip install moviepy speechrecognition pydub googletrans==4.0.0-rc1
 #pip install gtts
 import moviepy.editor as mp
 import speech_recognition as sr
